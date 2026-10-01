@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Java build output
+bin/
+build/
+target/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment/config
+.env
